@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UiPlayground</string>
+    <string name="my_progress">My Progress</string>
+    <string name="average_calories_burned">Average calories burned</string>
+</resources>
